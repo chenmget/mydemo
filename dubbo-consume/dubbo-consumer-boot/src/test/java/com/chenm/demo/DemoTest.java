@@ -1,7 +1,8 @@
 package com.chenm.demo;
 
 import com.alibaba.dubbo.config.annotation.Reference;
-import com.chenm.ConsumeApplication;
+import com.chen.demo.ConsumeApplication;
+import com.chenm.demo.service.DemoService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -16,6 +17,7 @@ public class DemoTest {
 
     @Test
     public void demoTest(){
-        demoService.hello("chenm");
+
+        //demoService.hello("1");
     }
 }
