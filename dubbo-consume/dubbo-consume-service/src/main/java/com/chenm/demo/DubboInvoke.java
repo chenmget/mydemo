@@ -5,10 +5,10 @@ import com.chenm.demo.service.DemoService;
 import org.springframework.stereotype.Service;
 
 @Service
-public class Invoke {
+public class DubboInvoke {
 
     @Reference
-    private DemoService demoService;
+    public DemoService demoService;
 
     public void testDubbo(String id){
         demoService.hello(id);

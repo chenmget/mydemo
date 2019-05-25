@@ -17,7 +17,7 @@ public class DemoTest {
 
     @Test
     public void demoTest(){
-
-        //demoService.hello("1");
+        System.out.println("demoService----"+demoService);
+        demoService.hello("1");
     }
 }

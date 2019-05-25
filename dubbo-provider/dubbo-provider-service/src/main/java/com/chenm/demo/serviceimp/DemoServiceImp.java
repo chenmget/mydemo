@@ -21,6 +21,5 @@ public class DemoServiceImp implements DemoService {
         }else{
             System.out.println("no user find");
         }
-
     }
 }
