@@ -19,6 +19,8 @@
         <module>pattern</module>
         <module>dubbo-provider</module>
         <module>activiti-workflow</module>
+        <module>dubbo-consumer</module>
+        <module>dubbo-consumer</module>
     </modules>
 
     <name>mydemo</name>
