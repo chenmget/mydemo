@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-provider-boot" />
+        <module name="pattern" />
+        <module name="dubbo-provider-service" />
+        <module name="dubbo-consume-service" />
+        <module name="dubbo-provider-client" />
+        <module name="dubbo-consumer-boot" />
+        <module name="activiti-workflow" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activiti-workflow" target="1.8" />
+      <module name="dubbo-consume-service" target="1.5" />
+      <module name="dubbo-consumer" target="1.8" />
+      <module name="dubbo-consumer-boot" target="1.5" />
+      <module name="dubbo-provider" target="1.8" />
+      <module name="dubbo-provider-boot" target="1.8" />
+      <module name="dubbo-provider-client" target="1.8" />
+      <module name="dubbo-provider-service" target="1.8" />
+      <module name="mydemo" target="1.8" />
+      <module name="pattern" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
