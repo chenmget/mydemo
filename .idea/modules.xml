@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider-client/dubbo-provider-client.iml" filepath="$PROJECT_DIR$/dubbo-provider/dubbo-provider-client/dubbo-provider-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider-service/dubbo-provider-service.iml" filepath="$PROJECT_DIR$/dubbo-provider/dubbo-provider-service/dubbo-provider-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mydemo.iml" filepath="$PROJECT_DIR$/.idea/mydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
     </modules>
   </component>

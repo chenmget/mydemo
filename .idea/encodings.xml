@@ -4,10 +4,13 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/activiti-workflow" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-consumer/dubbo-consumer-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-consumer/dubbo-consumer-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider-boot" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pattern" charset="UTF-8" />
   </component>
 </project>

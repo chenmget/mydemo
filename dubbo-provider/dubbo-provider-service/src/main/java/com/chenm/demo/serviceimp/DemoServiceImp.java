@@ -9,13 +9,15 @@ import org.springframework.beans.factory.annotation.Autowired;
 @Service
 public class DemoServiceImp implements DemoService {
 
-    @Autowired
-    private UserMapper userMapper;
+//    @Autowired
+//    private UserMapper userMapper;
 
 
     @Override
     public void hello(String id) {
-        User user=userMapper.selectById(id);
+        //User user=userMapper.selectById(id);
+        User user = new User();
+        user.setName("chenm");
         if(user!=null){
             System.out.println( user.getName()+ " say hello");
         }else{

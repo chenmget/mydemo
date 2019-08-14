@@ -27,9 +27,12 @@ mybatis:
 
 spring.datasource:
   driver-class-name: com.mysql.jdbc.Driver
-  url: jdbc:mysql://127.0.0.1:3306/test?zeroDateTimeBehavior=convertToNull&useUnicode=true&characterEncoding=UTF-8
-  username: root
-  password: root
+#  url: jdbc:mysql://127.0.0.1:3306/test?zeroDateTimeBehavior=convertToNull&useUnicode=true&characterEncoding=UTF-8
+#  username: root
+#  password: root
+  url: jdbc:mysql://10.45.46.67:8866/YHJDB_TEST?zeroDateTimeBehavior=convertToNull&useUnicode=true&characterEncoding=UTF-8
+  username: szxtest
+  password: szxtest.2019
 
   druid:
     #2.连接池配置
