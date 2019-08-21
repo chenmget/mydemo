@@ -1,36 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>mydemo</artifactId>
         <groupId>com.chenm</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>rocketmq</artifactId>
     <packaging>pom</packaging>
-    <groupId>com.chenm</groupId>
-    <artifactId>dubbo-consumer</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <name>dubbo-consumer</name>
-    <description>Demo project for Spring Boot</description>
-
-    <properties>
-        <java.version>1.8</java.version>
-        <spring-boot-starter-dubbo.version>1.0.0</spring-boot-starter-dubbo.version>
-        <zookeeper.version>3.4.6</zookeeper.version>
-        <zkclient.version>0.5</zkclient.version>
-        <dubbo.version>2.6.0</dubbo.version>
-        <mysql-connector-java.version>5.1.6</mysql-connector-java.version>
-        <mybatis-plus-boot-starter.version>3.0.7</mybatis-plus-boot-starter.version>
-        <mybatis-plus.version>3.0.7</mybatis-plus.version>
-        <druid-spring-boot-starter.version>1.1.10</druid-spring-boot-starter.version>
-    </properties>
-
     <modules>
-        <module>dubbo-consumer-service</module>
-        <module>dubbo-consumer-boot</module>
+        <module>rocketmq-provider</module>
+        <module>rocketmq-consumer</module>
     </modules>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.rocketmq</groupId>
+            <artifactId>rocketmq-client</artifactId>
+            <version>4.4.0</version>
+        </dependency>
+    </dependencies>
 
     <build>
         <pluginManagement>
@@ -59,6 +51,5 @@
             </plugin>
         </plugins>
     </build>
-
 
 </project>

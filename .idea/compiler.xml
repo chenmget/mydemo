@@ -11,8 +11,11 @@
         <module name="dubbo-consume-service" />
         <module name="pattern" />
         <module name="dubbo-provider-service" />
+        <module name="rocketmqconsumer" />
+        <module name="spring" />
         <module name="dubbo-provider-client" />
         <module name="dubbo-consumer-boot" />
+        <module name="rocketmqprovider" />
         <module name="activiti-workflow" />
       </profile>
     </annotationProcessing>
@@ -28,6 +31,10 @@
       <module name="mydemo" target="1.8" />
       <module name="netty" target="1.8" />
       <module name="pattern" target="1.8" />
+      <module name="rocketmq" target="1.8" />
+      <module name="rocketmqconsumer" target="1.8" />
+      <module name="rocketmqprovider" target="1.8" />
+      <module name="spring" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

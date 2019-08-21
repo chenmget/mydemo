@@ -13,6 +13,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/mydemo.iml" filepath="$PROJECT_DIR$/.idea/mydemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq/rocketmq.iml" filepath="$PROJECT_DIR$/rocketmq/rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq/rocketmq-consumer/rocketmqconsumer.iml" filepath="$PROJECT_DIR$/rocketmq/rocketmq-consumer/rocketmqconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq/rocketmq-provider/rocketmqprovider.iml" filepath="$PROJECT_DIR$/rocketmq/rocketmq-provider/rocketmqprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
     </modules>
   </component>
 </project>
