@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/activiti-workflow/activiti-workflow.iml" filepath="$PROJECT_DIR$/activiti-workflow/activiti-workflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-consumer/dubbo-consumer-service/dubbo-consume-service.iml" filepath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer-service/dubbo-consume-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-consumer/dubbo-consumer-boot/dubbo-consumer-boot.iml" filepath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer-boot/dubbo-consumer-boot.iml" />
@@ -10,13 +10,19 @@
       <module fileurl="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider-boot/dubbo-provider-boot.iml" filepath="$PROJECT_DIR$/dubbo-provider/dubbo-provider-boot/dubbo-provider-boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider-client/dubbo-provider-client.iml" filepath="$PROJECT_DIR$/dubbo-provider/dubbo-provider-client/dubbo-provider-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider-service/dubbo-provider-service.iml" filepath="$PROJECT_DIR$/dubbo-provider/dubbo-provider-service/dubbo-provider-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch/elasticsearch.iml" filepath="$PROJECT_DIR$/elasticsearch/elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mydemo.iml" filepath="$PROJECT_DIR$/.idea/mydemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocketmq/rocketmq.iml" filepath="$PROJECT_DIR$/rocketmq/rocketmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocketmq/rocketmq-consumer/rocketmqconsumer.iml" filepath="$PROJECT_DIR$/rocketmq/rocketmq-consumer/rocketmqconsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocketmq/rocketmq-provider/rocketmqprovider.iml" filepath="$PROJECT_DIR$/rocketmq/rocketmq-provider/rocketmqprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice/webservice.iml" filepath="$PROJECT_DIR$/webservice/webservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice/webservice-server/webserviceserver.iml" filepath="$PROJECT_DIR$/webservice/webservice-server/webserviceserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocket/websocket.iml" filepath="$PROJECT_DIR$/websocket/websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice/ws-soap/ws-soap.iml" filepath="$PROJECT_DIR$/webservice/ws-soap/ws-soap.iml" />
     </modules>
   </component>
 </project>

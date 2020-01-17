@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/activiti-workflow" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-consumer/dubbo-consumer-boot" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-consumer/dubbo-consumer-service" charset="UTF-8" />
@@ -10,11 +10,17 @@
     <file url="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider-boot" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elasticsearch" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/netty" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rocketmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rocketmq/rocketmq-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rocketmq/rocketmq-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webservice/ws-soap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websocket" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
